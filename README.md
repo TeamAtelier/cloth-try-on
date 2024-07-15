@@ -15,4 +15,6 @@ Before running the project, ensure you have the following software and Python li
 - cvzone: For pose detection and image overlay.
 - PoseModule: Included within cvzone for pose detection.
 
+*Access files from the master branch
+
 
